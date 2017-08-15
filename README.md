@@ -2,6 +2,11 @@
 
 ## Updated Material Resume: [Demo](http://kabirvirji.com/material-resume/material-resume.html)
 
+### TODO
+- [ ] Size the main container to 850px x 1100px to match letter paper size (high priority)
+- [ ] Last line its own directive
+- [ ] Header links use scope variables
+
 ## My version of the classic Taylor Swift material resume example. 
 
 ## Updates:
